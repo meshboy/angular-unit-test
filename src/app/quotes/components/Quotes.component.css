@@ -1,0 +1,26 @@
+.container-fluid {
+  margin-top: 20px !important;
+}
+
+.list-card {
+  margin: 10px;
+  cursor: pointer;
+}
+
+h5 {
+  font-family: Lato;
+  font-weight: 900;
+  font-style: normal;
+}
+
+h6 {
+  font-family: "Lato Medium";
+  font-weight: 400;
+  font-style: italic;
+}
+
+small {
+  font-family: "Lato Thin";
+  font-weight: 100;
+  font-style: normal;
+}
